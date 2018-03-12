@@ -1,0 +1,5 @@
+service:
+    projectServiceId: 'PROJECT-SERVICE'
+    hrServiceId: 'HR-SERVICE'
+    defaultMinMs: 6000
+    defaultMaxMs: 6000
